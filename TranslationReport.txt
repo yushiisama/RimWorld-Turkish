@@ -1,0 +1,154 @@
+Translation report for Turkish
+
+========== General load errors (0) ==========
+
+========== Def-injected translations load errors (38) ==========
+Found no Verse.HediffDef named PsychicAmplifier to match PsychicAmplifier.label (Hediffs_Psycasts.xml)
+Found no Verse.HediffDef named PsychicAmplifier to match PsychicAmplifier.description (Hediffs_Psycasts.xml)
+Found no Verse.HediffDef named PsychicAmplifier to match PsychicAmplifier.descriptionShort (Hediffs_Psycasts.xml)
+Couldn't inject Humanlike.root.children.0.children.4.debugLabel into Verse.PawnRenderTreeDef (PawnRenderTreeDefs.xml): Index out of bounds (max index is 3)
+Couldn't inject Humanlike.root.children.2.children.6.debugLabel into Verse.PawnRenderTreeDef (PawnRenderTreeDefs.xml): Index out of bounds (max index is 5)
+Couldn't inject ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef (ThreatReward_Raid_Joiner.root.nodes.7.node.parms.5.value.slateRef) into RimWorld.QuestScriptDef (Scripts_JoinerThreatCore.xml): Field or TKey parms does not exist.
+Couldn't inject ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef (ThreatReward_Raid_Joiner.root.nodes.7.node.parms.6.value.slateRef) into RimWorld.QuestScriptDef (Scripts_JoinerThreatCore.xml): Field or TKey parms does not exist.
+Found no RimWorld.StatDef named PsychicEntropyMaxOffset to match PsychicEntropyMaxOffset.label (Stats_Basics_Special.xml)
+Found no RimWorld.StatDef named PsychicEntropyMaxOffset to match PsychicEntropyMaxOffset.description (Stats_Basics_Special.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRateOffset to match PsychicEntropyRecoveryRateOffset.label (Stats_Basics_Special.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRateOffset to match PsychicEntropyRecoveryRateOffset.description (Stats_Basics_Special.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRateOffset to match PsychicEntropyRecoveryRateOffset.formatString (Stats_Basics_Special.xml)
+Found no RimWorld.StatDef named EMPResistance to match EMPResistance.label (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named EMPResistance to match EMPResistance.description (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named MeditationFocusGain to match MeditationFocusGain.label (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named MeditationFocusGain to match MeditationFocusGain.description (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named MeditationFocusGain to match MeditationFocusGain.formatString (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named MeditationFocusGain to match MeditationFocusGain.formatStringUnfinalized (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named PsychicEntropyMax to match PsychicEntropyMax.label (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named PsychicEntropyMax to match PsychicEntropyMax.description (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRate to match PsychicEntropyRecoveryRate.label (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRate to match PsychicEntropyRecoveryRate.description (Stats_Pawns_General.xml)
+Found no RimWorld.StatDef named PsychicEntropyRecoveryRate to match PsychicEntropyRecoveryRate.formatString (Stats_Pawns_General.xml)
+Couldn't inject WorkSpeedGlobal.parts.2.label into RimWorld.StatDef (Stats_Pawns_WorkGeneral.xml): Index out of bounds (max index is 0)
+Found no Verse.ThingDef named Apparel_Cape to match Apparel_Cape.label (Apparel_Various.xml)
+Found no Verse.ThingDef named Apparel_Cape to match Apparel_Cape.description (Apparel_Various.xml)
+Couldn't inject CommsConsole.comps.CompUsable.useLabel into Verse.ThingDef (Buildings_Misc.xml): None of the list elements have a handle named CompUsable.
+Found no Verse.ThingDef named TimedFlyoff to match TimedFlyoff.label (Ethereal_Trailer.xml)
+Found no Verse.ThingDef named TimeMentalBreak to match TimeMentalBreak.label (Ethereal_Trailer.xml)
+Found no Verse.ThingDef named PsychicAmplifier to match PsychicAmplifier.label (Hediffs_Psycasts.xml)
+Found no Verse.ThingDef named PsychicAmplifier to match PsychicAmplifier.description (Hediffs_Psycasts.xml)
+Found no Verse.ThingDef named PsychicAmplifier to match PsychicAmplifier.comps.CompUsableImplant.useLabel (Hediffs_Psycasts.xml)
+Found no Verse.ThingDef named Mote_TerrorHalo to match Mote_TerrorHalo.label (Mote_Visual.xml)
+Couldn't inject Mechanoid.thinkRoot.subNodes.8.subNodes.0.subNodes.1.subNodes.4.subNodes.1.subNodes.0.reportStringOverride into Verse.ThinkTreeDef (Mechanoid.xml): Index out of bounds (max index is 0)
+Couldn't inject KnowColonistExecuted.stages.colonist_ripscanned.label into RimWorld.ThoughtDef (Thoughts_Memory_Death.xml): None of the list elements have a handle named colonist_ripscanned.
+Couldn't inject KnowColonistExecuted.stages.colonist_ripscanned.description into RimWorld.ThoughtDef (Thoughts_Memory_Death.xml): None of the list elements have a handle named colonist_ripscanned.
+Couldn't inject KnowGuestExecuted.stages.someone_was_ripscanned.label into RimWorld.ThoughtDef (Thoughts_Memory_Death.xml): None of the list elements have a handle named someone_was_ripscanned.
+Couldn't inject KnowGuestExecuted.stages.someone_was_ripscanned.description into RimWorld.ThoughtDef (Thoughts_Memory_Death.xml): None of the list elements have a handle named someone_was_ripscanned.
+
+========== Missing keyed translations (2) ==========
+AndOtherVolunteers 'and many other gracious volunteers!' (English file: Credits.xml:39)
+SelectedCharactersMustBeOfAllowedDevelopmentalStages 'All colonists must be {0}' (English file: Dialogs_Various.xml:146)
+
+========== Def-injected translations missing (6) ==========
+JobDef: FillIn.reportString 'filling in TargetA.'
+QuestScriptDef: ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef '{BASELABEL} chasing [../joiner_nameDef]'
+QuestScriptDef: ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef '{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].'
+WorkGiverDef: FillIn.label 'fill in'
+WorkGiverDef: FillIn.gerund 'filling in'
+WorkGiverDef: FillIn.verb 'fill'
+
+========== Unnecessary def-injected translations (marked as NoTranslate) (0) ==========
+
+========== Def-injected translations using old, renamed defs (fixed automatically but can break in the next RimWorld version) (0) =========
+
+========== Argument count mismatches (may or may not be incorrect) (15) ==========
+Credits_TitleLanguage (Credits.xml:31)
+  - '{0} ({1}) language'
+  - '{0} Dili'
+FactionGreetingWarm (Dialog_Trees.xml:11)
+  - '{0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you.'
+  - '{0}, {NEGOTIATOR_labelShort} kişisini samimiyetle karşılıyor ve yardımcı olmak için neler yapabileceğini soruyor.'
+CannotGenericAlreadyAm (FloatMenu.xml:475)
+  - 'Already {0} {2_labelShort}'
+  - 'Zaten {0} başladı'
+PrioritizeGeneric (FloatMenu.xml:510)
+  - 'Prioritize {0} {1}'
+  - '{0} öncelik ver'
+SingleVisitorArrivesTraderInfo (Incidents.xml:85)
+  - '{PAWN_pronoun} seems to have a few items to trade.'
+  - 'Satabileceği birkaç eşyası var gibi görünüyor.'
+SingleVisitorArrivesLeaderInfo (Incidents.xml:87)
+  - '{PAWN_pronoun} is the leader of the faction.'
+  - 'O, fraksiyonun lideri.'
+CannotTrainTooSmall (ITabs.xml:273)
+  - '{0} is too small to train this.'
+  - '{1_labelShort} bu eğitim için çok küçük.'
+LetterRunWildMentalBreak (Letters.xml:353)
+  - '{0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back.'
+  - '{0} medeniyetten bezdi.\n\nYabani canlıların daima özgür olduğunu fark etti. Bu nedenle topluluğunu terk etmeye ve hayvanlarla yaşamaya karar verdi.\n\nOnu geri döndürmek için evcilleştirmeyi veya tutuklamayı deneyebilirsin.'
+LetterCatatonicMentalBreak (Letters.xml:357)
+  - '{0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days.'
+  - '{0} tam bir zihinsel çöküş yaşadı ve katatonik hâle girdi. O birkaç gün içinde iyileşecek.'
+LetterRescueQuestFinishedCaravanExtra (Letters.xml:421)
+  - '\n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command.'
+  - '\n\nŞimdi onu yanına alabilirsin. Bunu yapmak için Dünya ekranını aç, bu bölgeyi seç ve "Kervanı yenile" komutuna tıkla.'
+LetterJoinOfferText (Letters.xml:581)
+  - '{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.'
+  - '{PAWN_nameDef}, burada mutlu olduğuna inanıyor. Sana kalıcı olarak katılmak istiyor.'
+MessageFinishedLoadingShuttle (Messages.xml:374)
+  - '{SHUTTLE_label} is loaded with required cargo and can launch when ready.'
+  - 'Mekik, gereken kargo ile yüklendi ve hazır olduğunda fırlatılabilir.'
+MessageActivatorProximityTriggered (Messages.xml:686)
+  - '{0_indefinite} has triggered a proximity activator.'
+  - 'Bir yakınlık aktivatörü tetiklendi.'
+RenounceTitleWillLoosePermits (Misc_Gameplay.xml:120)
+  - '{PAWN_pronoun} will lose these permissions'
+  - 'O, şu yetkileri kaybedecek'
+RenounceTitleWillKeepPsylinkLevels (Misc_Gameplay.xml:124)
+  - '{PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts.'
+  - 'O, tüm psi-bağ seviyelerini ve psi-yetilerini koruyacak.'
+
+========== Unnecessary keyed translations (will never be used) (0) ==========
+
+========== Keyed translations matching English (maybe ok) (42) ==========
+ShortDate '{0} {1} {2}' (Dates.xml:16)
+MonthYearDate '{0}, {1}' (Dates.xml:18)
+PermadeathModeSaveSuffix '(Permadeath)' (Dialogs_Various.xml:125)
+minimum 'minimum' (Dialogs_Various.xml:694)
+CantGrazeBecauseOfBiome '({0})' (Dialogs_Various.xml:860)
+StatsReport_Inspiration '{0}' (Dialog_StatsReports.xml:116)
+Stat_Thing_ReloadMaxCharges_Name '{CHARGENOUN_plural}' (Dialog_StatsReports.xml:358)
+PriceTypeNormal 'normal' (Enums.xml:18)
+StoragePriorityNormal 'normal' (Enums.xml:30)
+QualityCategory_Normal 'normal' (Enums.xml:68)
+QualityCategoryShort_Normal 'norm' (Enums.xml:82)
+TechLevel_Ultra 'ultra' (Enums.xml:190)
+Kelvin 'Kelvin' (Enums.xml:266)
+DietCategory_NeverEats_Short '-' (Enums.xml:300)
+MassUsageString '{0} / {1} kg' (GameplayCommands.xml:530)
+LetterHealthComplicationsLabel '{PAWN_labelShort}: {1}' (Letters.xml:129)
+LetterHediffFromRandomHediffGiverLabel '{PAWN_labelShort}: {1}' (Letters.xml:134)
+LetterLabelShortCircuit 'Zzztt...' (Letters.xml:239)
+Mod 'Mod' (Menus_Main.xml:20)
+LudeonBlog 'Ludeon blog' (Menus_Main.xml:48)
+PlanetRainfall_Normal 'Normal' (Menus_Main.xml:96)
+PlanetTemperature_Normal 'Normal' (Menus_Main.xml:102)
+PlanetPopulation_Normal 'Normal' (Menus_Main.xml:108)
+FromForum 'Forum' (Menus_Main.xml:210)
+ModPackageId 'ID' (Menus_Main.xml:248)
+kg 'kg' (Misc.xml:80)
+ThingMadeOfStuffLabel '{0} {1}' (Misc.xml:170)
+SourceToolLabel '{0} {1}' (Misc_Gameplay.xml:132)
+CaravanColonistsCount '{0} {1}' (Misc_Gameplay.xml:216)
+KnownSiteThreatEnemyCountAppend '{0} {1}' (Misc_Gameplay.xml:346)
+FilthLabel '{0} x{1}' (Misc_Gameplay.xml:460)
+PawnMainDescGendered '{PAWN_gender} {1}' (Misc_Gameplay.xml:1020)
+PawnMainDescLifestageWrap '{2_lifeStageAdjective} {0}' (Misc_Gameplay.xml:1028)
+OutfitNudist 'Nudist' (Misc_Gameplay.xml:1638)
+PawnTooltipWithDescAndPrimaryEquip '{0} ({1})\n{2}\n{3}' (Misc_Gameplay.xml:1656)
+PawnTooltipWithDescNoPrimaryEquip '{0} ({1})\n{2}' (Misc_Gameplay.xml:1658)
+PawnTooltipWithPrimaryEquipNoDesc '{0}\n{1}\n{2}' (Misc_Gameplay.xml:1660)
+PawnTooltipNoDescNoPrimaryEquip '{0}\n{1}' (Misc_Gameplay.xml:1662)
+PawnTooltipGenderAndKindLabel '{0} {1}' (Misc_Gameplay.xml:1676)
+Wiki 'Wiki' (PlayInterface.xml:5)
+PawnCount '{COUNT} {KINDLABEL}' (ScenParts.xml:61)
+LetterYear 'y' (Time.xml:13)
+
+========== Backstories translation using obsolete format (def injection is now enabled for backstories) (0) ==========
